@@ -1,5 +1,7 @@
 # Viu.com 1080P Video Download Script with FFmpeg
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Viu_logo.svg/796px-Viu_logo.svg.png" />
+
 ## Viu Premium subscription is not needed
 
 ### Step 1
