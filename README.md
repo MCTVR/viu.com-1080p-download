@@ -34,4 +34,4 @@ console.log("Please paste the command into terminal: \n" + replaced)
 
 Change the __terminal directory__ to the path you wanted to download to and paste the command showed in __Console__.
 
-Hit Enter and the Video will be downloaded in 1080p H.264 MP4 format.
+Hit Enter and the Video will be downloaded in __1080p H.264 MP4__ format.
